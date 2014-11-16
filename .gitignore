@@ -15,6 +15,7 @@ hs_err_pid*
 *.iml
 *.ipr
 *.iws
+build/
 out/
 .idea_modules/
 com_crashlytics_export_strings.xml
